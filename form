@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+</head>
+<body>
+    <form >
+        Username:
+        <input type="text"/>
+        <br>
+        Password:
+        <input type="password" />
+        <br>
+        <input type="submit" value="Submit" />
+
+        <br>
+        <input type="radio" name="ali" > ali naser <br>
+        <input type="radio" name="ali"> ali hafidh <br>
+        <input type="radio" name="ali"> duha <br>
+        <br>
+        <select name="selDays" multiple="multiple">
+            <option >sgs</option>
+            <option >Wednesday</option>
+            <option >Thursday</option>
+            <option >sdfs</option>
+            <option >Saturday</option>
+            <option >Sunday</option>
+        </select>
+
+    </form>
+
+</body>
+</html>
